@@ -1,7 +1,6 @@
-// src/app.js
 const express = require("express");
 const app = express();
-const coffeeRoutes = require("./routes/coffeeRoutes");
+const coffeeRoutes = require("./src/routes/coffeeRoutes");
 
 app.use(express.json());
 
