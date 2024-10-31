@@ -1,7 +1,7 @@
 // data/coffeeData.js
 const coffees = [
   {
-    title: "Black",
+    title: "Americano",
     description:
       "Black coffee is as simple as it gets with ground coffee beans steeped in hot water, served warm. And if you want to sound fancy, you can call black coffee by its proper name: cafe noir.",
     ingredients: ["Coffee"],
