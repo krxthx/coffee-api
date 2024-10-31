@@ -1,1 +1,1 @@
-Documentation of CoffeeAPI
+Documentation of CoffeeAPI V2
